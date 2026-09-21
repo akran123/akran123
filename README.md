@@ -27,7 +27,7 @@
 
 🏆 **2025 교내 연합 해커톤 UNITHON**  
 🥉 **우수상 – 스파르탄SW교육원 원장상**
-- Project: **POOM (Protective Observation Of Motion)**
+- Project: [**POOM (Protective Observation Of Motion)**](https://github.com/Soongbang-Yeuijiguk)
 - Team: 숭방예의지국
 - Part: **Backend**
 - Organization: 숭실대학교 IT대학 학생회·창업동아리 시너지(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
@@ -51,7 +51,7 @@
 | **Little Artist** | **AI 아동 동화 생성 서비스** | **AI & Backend** |
 | [**FLIP**](https://github.com/UNITON-3DAYS/FLIP-AI) | **AI 기반 학습 및 채점 서비스** | **AI & Backend** |
 | **SOOM** | **WiFi Sensing 기반 침실 비서** | **Backend** |
-| **POOM** | **WiFi Sensing 기반 스마트 병실 안전 모니터링 시스템** | **Backend** |
+| [**POOM**](https://github.com/Soongbang-Yeuijiguk) | **WiFi Sensing 기반 스마트 병실 안전 모니터링 시스템** | **Backend** |
 | **SSCCtal** | **동아리 물품 대여 서비스** | **Backend** |
 
 <br>
