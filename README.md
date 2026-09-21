@@ -16,7 +16,7 @@
 
 🏆 **2025 제23회 임베디드 소프트웨어 경진대회**  
 🥇 **금상 – LG전자 CTO상**
-- Project: **SOOM (Sleep Observation & Optimization Module)**
+- Project: [**SOOM (Sleep Observation & Optimization Module)**](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019)
 - Sector: 스마트 가전 부문
 - Team: 동방예의지국
 - Part: **Backend**
@@ -50,7 +50,7 @@
 | :--- | :--- | :--- |
 | **Little Artist** | **AI 아동 동화 생성 서비스** | **AI & Backend** |
 | [**FLIP**](https://github.com/UNITON-3DAYS/FLIP-AI) | **AI 기반 학습 및 채점 서비스** | **AI & Backend** |
-| **SOOM** | **WiFi Sensing 기반 침실 비서** | **Backend** |
+| [**SOOM**](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019) | **WiFi Sensing 기반 침실 비서** | **Backend** |
 | [**POOM**](https://github.com/Soongbang-Yeuijiguk) | **WiFi Sensing 기반 스마트 병실 안전 모니터링 시스템** | **Backend** |
 | **SSCCtal** | **동아리 물품 대여 서비스** | **Backend** |
 
