@@ -85,31 +85,3 @@
 </p>
 
 <br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akran123&show_icons=true"
-    height="160"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akran123&layout=compact"
-    height="160"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Backend · AI
-
-**Building services, solving problems, and learning continuously.**
-
-</div>
